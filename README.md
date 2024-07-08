@@ -34,6 +34,6 @@ Small things I create while learning
 - **[Book Swap](https://github.com/Desmends27/book_swap) (React, Django, Django Rest, Djano JWT)**
 - **[Printf](https://github.com/Desmends27/printf) (C, Bash)**
 
-  <br/>
+  <br/><br/>
   ### 📊 Stats
-  ![desmends27 Stats](https://github-readme-stats.vercel.app/api?username=desmends27&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![desmends27's Stats](https://github-readme-stats.vercel.app/api?username=desmends27&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
