@@ -23,7 +23,7 @@ I'm  a passionate full-stack developer from Ghana
 <img  align="left" alt="C" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img  align="left" alt="C" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 
-<br/><br/>
+<br/><br/><br/>
 ### ** 🎨 Playground**
 Small things I create while learning
 
@@ -37,5 +37,3 @@ Small things I create while learning
   <br/><br/>
   ### 📊 Stats
   ![desmends27 Stats](https://github-readme-stats.vercel.app/api?username=desmends27&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![desmends27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=desmends27&theme=vue-dark&hide_border=true)
-  ![desmends27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desmends27&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
